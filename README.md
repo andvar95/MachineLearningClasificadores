@@ -22,7 +22,7 @@ MLPC*
 
 ```python
 XGBoost ('Marco Julio')
-SGDClassifier ('Andrés Varelo'
+SGDClassifier ('Andrés Varelo')
 ```
 
 ## Modificaciones
